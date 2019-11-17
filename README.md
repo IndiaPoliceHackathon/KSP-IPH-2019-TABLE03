@@ -19,14 +19,20 @@ Code for the same is provided in the repo with the weights as well.
 *******
 *******
 
+
 Primary Objective:
 Finding missing person from the database ... DONE
 
 Secondary Objective:
 Image Enhancement... Partially DONE < more styles can be used>
+
 GUI linkage with all functions... Partially DONE <need to call the corresponding function based on the corresponding gui action>
+
 Using state-of-the-art Face_recognition/Face_detection models... DONE <We can further use different models based on the latest research work>
-Light-weight mode... Partially Done. In this hackathon, we emphasized more precision and thus went with more heavier config model like DLIB for face recognition, although we use mobilenet for face_detection so the work done is partial.
+    
+Light-weight mode... Partially Done.
+
+In this hackathon, we emphasized more precision and thus went with more heavier config model like DLIB for face recognition, although we use mobilenet for face_detection so the work done is partial.
 *******
 *******
 
@@ -41,11 +47,12 @@ RESULTS:
 - You may find the video search results in 'media' folder as final_output.mp4
 - You may find matched_faces results in 'matched' folder.
 *******
-*******
- 
+******* 
 HOW TO RUN ::: 
 **Requirement file** 
 Please run 'pip install -r requirment.txt'
+*******
+*******
 
 **Face_Detection**
 -from the "face_detection.py" file import face_detector.
