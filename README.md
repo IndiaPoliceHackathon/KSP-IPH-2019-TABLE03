@@ -1,4 +1,5 @@
 ***Synopsis***
+
 This system endeavours towards comprehensive solution for facial-features
 based Identication and Tracking. It can search subjects across the web and will
 be able to locate them within several live video streams. It expedites the
@@ -15,6 +16,8 @@ We use Image Enhancement techniques like Super Resolution Improvement using stat
 Code for the same is provided in the repo with the weights as well.
 
 ***please look at the high_level_architecture.png for better understanding***
+*******
+
 Primary Objective:
 Finding missing person from the database ... DONE
 
